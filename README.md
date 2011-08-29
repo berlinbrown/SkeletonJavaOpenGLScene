@@ -5,3 +5,6 @@ OpenGL is a complex 3D API.  This project includes basic OpenGL setup code for J
 The application includes a basic OpenGL scene with some camera movement, materials and light setup,
 
 Use for basic 3D visualization or simple graphic demos.
+
+
+<img src="https://github.com/berlinbrown/SkeletonJavaOpenGLScene/raw/master/media/screenshot_with_cellular_demo.png" />
